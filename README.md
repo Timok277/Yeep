@@ -191,7 +191,7 @@ MIT License
 
 ## Автор
 
-[Tima Yeep]
+Tima Yeep
 
 ## Вклад в проект
 
